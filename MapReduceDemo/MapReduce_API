@@ -1,0 +1,12 @@
+MapReduce编写API：
+1、WordCount、
+2、hadoop序列化、
+3、CombineTextInputFormat合并小文件实操、
+4、partition分区、
+5、WritableComparable排序、
+6、combiner合并
+7、ComparablePartition排序分区
+8、reduce join 根据需求合并列表信息
+9、map join 使用map合并需求
+10、outputformat 自定义输出
+11、etl操作
